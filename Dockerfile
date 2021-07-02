@@ -1,4 +1,4 @@
-FROM python:3.7.7-slim-stretch as builder
+FROM python:3.7.11-slim-stretch as builder
 
 # File Author / Maintainer
 # MAINTAINER
